@@ -1,1 +1,1 @@
-# [rsschool-cv](https://imaginative-lamington-8ef932.netlify.app/)
+# [rsschool-cv](https://igorveremeyenko.github.io/rsschool-cv/cv)
