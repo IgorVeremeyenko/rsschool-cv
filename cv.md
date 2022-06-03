@@ -63,6 +63,7 @@ I still don’t know for sure if it’s mine or not. But how much time and effor
 >output = ["Open", "Open", "Senior", "Open", "Open", "Senior"]
 
 **Solution**
+
 ```
 function openOrSenior(data){
   let resultStr = [];
